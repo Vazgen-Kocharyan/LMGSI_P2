@@ -1,0 +1,75 @@
+body {
+	font-family: 'Verdana';
+}
+
+h1 {
+	text-align: center;
+	font-size:x-large;
+	color: blue;
+}
+
+h2 {
+	text-align:center;
+	font-size: medium;
+	font-style: normal;
+	color: #e8cb26;
+	margin-bottom: 0%;
+}
+
+table, th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	margin: auto;
+}
+
+th {
+	background-color: lightblue;
+	padding: 30px;
+	font-size: 25px;
+	width: fit-content;
+}
+
+
+#descans {
+	text-size-adjust: 20px;
+	padding: 15px;
+}
+
+.hora {
+	text-size-adjust: 20px;
+	padding: 10px;
+	width: 180px;
+}
+
+.ingles{
+	background-color: yellow;
+}
+
+.sistemas {
+	background-color: #14c000;
+}
+
+.programacion {
+	background-color: #99ff66;
+}
+
+.bases{
+	background-color: #ff8000;
+}
+
+.sge {
+	background-color: #ffc000;
+}
+
+.fol {
+	background-color: #00c0c8;
+}
+
+.lmsge {
+	background-color: #a800a8;
+}
+
+.tut {
+	background-color: #ffff66;
+}
